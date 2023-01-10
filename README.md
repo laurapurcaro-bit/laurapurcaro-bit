@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurapurcaro-bit
-- 👀 I’m interested in the intersection of healthcare and computer science.
+- 👀 I’m interested in computer science.
 - 🌱 I’m currently working for DoiT International
 
 
